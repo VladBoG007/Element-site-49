@@ -1,0 +1,17 @@
+body{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn{
+	padding: 10px;
+	text-transform: capitalize;
+	size: 30px;
+	font-size: 1.5rem;
+	outline: none;
+	color: sandybrown;
+}
+.btn:hover{
+	background-color: black;
+}
